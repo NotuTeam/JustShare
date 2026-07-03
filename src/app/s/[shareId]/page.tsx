@@ -166,7 +166,7 @@ export default function SharedNotePage() {
       <div className="mt-8 text-center">
         <p className="text-sm text-muted-foreground">
           Powered by{" "}
-          <span className="font-medium text-foreground">JustShare</span>
+          <span className="font-medium text-foreground">UR Snippets</span>
         </p>
       </div>
     </div>

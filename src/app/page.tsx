@@ -87,7 +87,7 @@ export default function Home() {
 
       <footer className="py-8 px-4 border-t border-border/40">
         <div className="max-w-5xl mx-auto flex items-center justify-between text-sm text-muted-foreground">
-          <span>JustShare</span>
+          <span>UR Snippets</span>
           <span>Built for developers who value simplicity</span>
         </div>
       </footer>

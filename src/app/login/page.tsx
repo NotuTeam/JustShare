@@ -53,7 +53,7 @@ export default function LoginPage() {
           </div>
           <CardTitle className="text-xl">Welcome back</CardTitle>
           <CardDescription>
-            Sign in to your JustShare account
+            Sign in to your UR Snippets account
           </CardDescription>
         </CardHeader>
         <CardContent>

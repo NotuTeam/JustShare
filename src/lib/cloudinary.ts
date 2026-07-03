@@ -16,7 +16,7 @@ export async function uploadImage(
   const dataUri = `data:image/jpeg;base64,${base64}`;
 
   const result = await cloudinary.uploader.upload(dataUri, {
-    folder: "justshare",
+    folder: "ur-snippets",
     public_id: filename.replace(/\.[^/.]+$/, ""),
     resource_type: "image",
   });

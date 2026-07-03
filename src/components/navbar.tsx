@@ -14,7 +14,7 @@ export function Navbar() {
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 font-semibold">
           <FileCode className="h-5 w-5 text-primary" />
-          <span>JustShare</span>
+          <span>UR Snippets</span>
         </Link>
 
         <div className="flex items-center gap-3">

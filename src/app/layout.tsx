@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "JustShare - Share Code & Screenshots",
+  title: "UR Snippets - Share Code & Screenshots",
   description: "A minimalist platform to share code snippets, notes, and screenshots with your team.",
 };
 
